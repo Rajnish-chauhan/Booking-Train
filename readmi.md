@@ -4,7 +4,7 @@ A simple Java-based backend console based application for managing train booking
 This project allows users to register, log in, search for trains, book tickets, and view their bookings.
 
 
- Features
+Features
 
 - User Authentication
     - Register a new account
@@ -31,4 +31,4 @@ This project allows users to register, log in, search for trains, book tickets, 
    bash
    git clone https://github.com/yourusername/train-booking-app.git
 
-API runs on: http://localhost:8080
+App runs on: http://localhost:8080
