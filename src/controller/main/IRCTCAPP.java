@@ -1,4 +1,4 @@
-package controller;
+package controller.main;
 import Services.UserService;
 import Services.BookingService;
 import train.Train;
