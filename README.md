@@ -4,7 +4,7 @@ A command-line Java application that simulates a railway ticket booking system. 
 
 ## Features
 
-* **User Authentication:
+* **User Authentication:**
   * Register new users with a username, password, full name, and contact details.
   * Secure login and logout functionality using in-memory session management.
 * **Train Management:**
